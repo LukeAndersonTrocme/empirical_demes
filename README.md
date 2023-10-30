@@ -6,9 +6,9 @@ Thank you for scanning my QR code! Welcome to my git repo.
 
 Currently my code is still under development, but it should be posted _soon_.
 
-If you're interested in the project, please email me : landersontrocme@uchicago.edu and I can invite you to the develpment repository.
+If you're interested in the project, I can invite you to the develpment repository.
 
-
+email : landersontrocme@uchicago.edu
 
 
 # Project Collaborators 
