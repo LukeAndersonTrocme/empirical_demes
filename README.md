@@ -10,8 +10,6 @@ If you're interested in the project, I can invite you to the develpment reposito
 
 email : landersontrocme@uchicago.edu
 
+# Poster
 
-# Project Collaborators 
-Luke Anderson-Trocmé, Shadi Zabad, Wilder Wohns, Karl Tayeb, Simon Gravel, and John Novembre
-
-
+![poster](https://github.com/LukeAndersonTrocme/empirical_demes/blob/main/Luke_ASHG_2023.jpg?raw=true)
